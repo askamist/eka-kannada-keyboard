@@ -15,12 +15,10 @@ export async function readLayoutTemplate() {
   });
   const parsedTemplate = xmlParser.parse(templateString);
 
-  await buildLayout(parsedTemplate);
-
   return parsedTemplate;
 }
 
-export async function buildLayout(parsedTemplate: any) {
+export async function writeLayout(parsedTemplate: any) {
   const xmlBuilder = new XMLBuilder({
     ignoreAttributes: false,
     format: true,
@@ -39,6 +37,8 @@ export async function buildLayout(parsedTemplate: any) {
     },
     keyboard: parsedTemplate.keyboard,
   });
+
+  writeFileWrapper("eka-generator/mac/eka-rebuilt.keylayout", templateRebuilt);
 
   return templateRebuilt;
 }

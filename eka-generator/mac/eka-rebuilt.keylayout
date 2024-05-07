@@ -26,41 +26,41 @@
     </modifierMap>
     <keyMapSet id="ANSI">
         <keyMap index="0">
-            <key code="0" output="ಅ"/>
+            <key code="0" output="್"/>
             <key code="1" output="ಸ"/>
             <key code="2" output="ದ"/>
-            <key code="3" output="್"/>
+            <key code="3" output="ಟ"/>
             <key code="4" output="ಹ"/>
             <key code="5" output="ಗ"/>
             <key code="6" output="ಞ"/>
-            <key code="7" output="ಷ"/>
+            <key code="7" output="ಶ"/>
             <key code="8" output="ಚ"/>
             <key code="9" output="ವ"/>
             <key code="10" output="§"/>
             <key code="11" output="ಬ"/>
-            <key code="12" output="ಟ"/>
+            <key code="12" output="ೃ"/>
             <key code="13" output="ಡ"/>
-            <key code="14" output="ಎ"/>
+            <key code="14" output="◌ೆ"/>
             <key code="15" output="ರ"/>
             <key code="16" output="ಯ"/>
             <key code="17" output="ತ"/>
-            <key code="18" output="೧"/>
-            <key code="19" output="೨"/>
-            <key code="20" output="೩"/>
-            <key code="21" output="೪"/>
-            <key code="22" output="೬"/>
-            <key code="23" output="೫"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output="="/>
-            <key code="25" output="೯"/>
-            <key code="26" output="೭"/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output="-"/>
-            <key code="28" output="೮"/>
-            <key code="29" output="೦"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="]"/>
-            <key code="31" output="ಒ"/>
-            <key code="32" output="ಉ"/>
+            <key code="31" output="ೊ"/>
+            <key code="32" output="ು"/>
             <key code="33" output="["/>
-            <key code="34" output="ಇ"/>
+            <key code="34" output="◌ಿ"/>
             <key code="35" output="ಪ"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="ಲ"/>
@@ -138,28 +138,28 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="1">
-            <key code="0" output="ಆ"/>
-            <key code="1" output="ಶ"/>
+            <key code="0" output="ಾ"/>
+            <key code="1" output="ಸ"/>
             <key code="2" output="ಧ"/>
-            <key code="3" output="&#x200c;&#x0ccd;"/>
+            <key code="3" output="ಠ"/>
             <key code="4" output="ಃ"/>
             <key code="5" output="ಘ"/>
             <key code="6" output="ಙ"/>
-            <key code="7" output="ವಿಶೇಷ"/>
+            <key code="7" output="ಷ"/>
             <key code="8" output="ಛ"/>
-            <key code="9" output="ಔ"/>
+            <key code="9" output="ವ"/>
             <key code="10" output="§"/>
             <key code="11" output="ಭ"/>
-            <key code="12" output="ಠ"/>
+            <key code="12" output="ೄ"/>
             <key code="13" output="ಢ"/>
-            <key code="14" output="ಏ"/>
-            <key code="15" output="ಋ"/>
-            <key code="16" output="ಐ"/>
+            <key code="14" output="ೇ"/>
+            <key code="15" output="ಱ"/>
+            <key code="16" output="ೈ"/>
             <key code="17" output="ಥ"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
-            <key code="21" output="₹"/>
+            <key code="21" output="$"/>
             <key code="22" output="^"/>
             <key code="23" output="%"/>
             <key code="24" output="+"/>
@@ -169,10 +169,10 @@
             <key code="28" output="*"/>
             <key code="29" output=")"/>
             <key code="30" output="}"/>
-            <key code="31" output="ಓ"/>
-            <key code="32" output="ಊ"/>
+            <key code="31" output="ೋ"/>
+            <key code="32" output="ೂ"/>
             <key code="33" output="{"/>
-            <key code="34" output="ಈ"/>
+            <key code="34" output="ೀ"/>
             <key code="35" output="ಫ"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="ಳ"/>
@@ -250,53 +250,53 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="2">
-            <key code="0" output="ಆ"/>
-            <key code="1" output="ಶ"/>
-            <key code="2" output="ಧ"/>
-            <key code="3" output="&x200c;"/>
-            <key code="4" output="ಃ"/>
-            <key code="5" output="ಘ"/>
-            <key code="6" output="ಙ"/>
-            <key code="7" output="ವಿಶೇಷ"/>
-            <key code="8" output="ಛ"/>
-            <key code="9" output="ಔ"/>
+            <key code="0" output="ಅ"/>
+            <key code="1" output="ಸ"/>
+            <key code="2" output="ದ"/>
+            <key code="3" output="ಟ"/>
+            <key code="4" output="ಹ"/>
+            <key code="5" output="ಗ"/>
+            <key code="6" output="಼"/>
+            <key code="7" output="ಶ"/>
+            <key code="8" output="ಚ"/>
+            <key code="9" output="ೌ"/>
             <key code="10" output="§"/>
-            <key code="11" output="ಭ"/>
-            <key code="12" output="ಠ"/>
-            <key code="13" output="ಢ"/>
-            <key code="14" output="ಏ"/>
-            <key code="15" output="ಋ"/>
-            <key code="16" output="ಐ"/>
-            <key code="17" output="ಥ"/>
-            <key code="18" output="!"/>
-            <key code="19" output="@"/>
-            <key code="20" output="#"/>
-            <key code="21" output="₹"/>
-            <key code="22" output="^"/>
-            <key code="23" output="%"/>
+            <key code="11" output="ಬ"/>
+            <key code="12" output="ಋ"/>
+            <key code="13" output="ಡ"/>
+            <key code="14" output="ಎ"/>
+            <key code="15" output="ರ"/>
+            <key code="16" output="ಯ"/>
+            <key code="17" output="ತ"/>
+            <key code="18" output="೧"/>
+            <key code="19" output="೨"/>
+            <key code="20" output="೩"/>
+            <key code="21" output="೪"/>
+            <key code="22" output="೬"/>
+            <key code="23" output="೫"/>
             <key code="24" output="+"/>
-            <key code="25" output="("/>
-            <key code="26" output="&#x0026;"/>
+            <key code="25" output="೯"/>
+            <key code="26" output="೭"/>
             <key code="27" output="_"/>
-            <key code="28" output="*"/>
-            <key code="29" output=")"/>
+            <key code="28" output="೮"/>
+            <key code="29" output="೦"/>
             <key code="30" output="]"/>
-            <key code="31" output="ಓ"/>
-            <key code="32" output="ಊ"/>
+            <key code="31" output="ಒ"/>
+            <key code="32" output="ಉ"/>
             <key code="33" output="["/>
-            <key code="34" output="ಈ"/>
-            <key code="35" output="ಫ"/>
+            <key code="34" output="ಇ"/>
+            <key code="35" output="ಪ"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="ಳ"/>
-            <key code="38" output="ಝ"/>
+            <key code="37" output="ಌ"/>
+            <key code="38" output="ಜ"/>
             <key code="39" output="&#x0027;"/>
-            <key code="40" output="ಖ"/>
+            <key code="40" output="ಕ"/>
             <key code="41" output=";"/>
             <key code="42" output="\"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
-            <key code="45" output="ಣ"/>
-            <key code="46" output="ಂ"/>
+            <key code="45" output="ನ"/>
+            <key code="46" output="ಮ"/>
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
@@ -362,27 +362,27 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="3">
-            <key code="0" output="a"/>
-            <key code="1" output="s"/>
-            <key code="2" output="d"/>
-            <key code="3" output="f"/>
-            <key code="4" output="h"/>
-            <key code="5" output="g"/>
-            <key code="6" output="z"/>
-            <key code="7" output="x"/>
-            <key code="8" output="c"/>
-            <key code="9" output="v"/>
-            <key code="11" output="b"/>
-            <key code="12" output="q"/>
-            <key code="13" output="w"/>
-            <key code="14" output="e"/>
-            <key code="15" output="r"/>
-            <key code="16" output="y"/>
-            <key code="17" output="t"/>
+            <key code="0" output="ಆ"/>
+            <key code="1" output="ಽ"/>
+            <key code="2" output="ದ"/>
+            <key code="3" output="ಟ"/>
+            <key code="4" output="ಹ"/>
+            <key code="5" output="ಗ"/>
+            <key code="6" output="ಞ"/>
+            <key code="7" output="ಶ"/>
+            <key code="8" output="ಚ"/>
+            <key code="9" output="ಔ"/>
+            <key code="11" output="ಬ"/>
+            <key code="12" output="ೠ"/>
+            <key code="13" output="ಡ"/>
+            <key code="14" output="ಏ"/>
+            <key code="15" output="ರ"/>
+            <key code="16" output="ಐ"/>
+            <key code="17" output="ತ"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>
-            <key code="21" output="4"/>
+            <key code="21" output="₹"/>
             <key code="22" output="6"/>
             <key code="23" output="5"/>
             <key code="24" output="="/>
@@ -392,22 +392,22 @@
             <key code="28" output="8"/>
             <key code="29" output="0"/>
             <key code="30" output="]"/>
-            <key code="31" output="o"/>
-            <key code="32" output="u"/>
+            <key code="31" output="ಓ"/>
+            <key code="32" output="ಊ"/>
             <key code="33" output="["/>
-            <key code="34" output="i"/>
-            <key code="35" output="p"/>
+            <key code="34" output="ಈ"/>
+            <key code="35" output="ಪ"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="l"/>
-            <key code="38" output="j"/>
+            <key code="37" output="ಲ"/>
+            <key code="38" output="ಜ"/>
             <key code="39" output="&#x0027;"/>
-            <key code="40" output="k"/>
+            <key code="40" output="ಕ"/>
             <key code="41" output=";"/>
             <key code="42" output="\"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
-            <key code="45" output="n"/>
-            <key code="46" output="m"/>
+            <key code="45" output="ನ"/>
+            <key code="46" output="ಮ"/>
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
@@ -601,18 +601,18 @@
             <key code="15" output="R"/>
             <key code="16" output="Y"/>
             <key code="17" output="T"/>
-            <key code="18" output="!"/>
-            <key code="19" output="@"/>
-            <key code="20" output="#"/>
-            <key code="21" output="$"/>
-            <key code="22" output="^"/>
-            <key code="23" output="%"/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
             <key code="24" output="+"/>
-            <key code="25" output="("/>
-            <key code="26" output="&#x0026;"/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
             <key code="27" output="_"/>
-            <key code="28" output="*"/>
-            <key code="29" output=")"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="}"/>
             <key code="31" output="O"/>
             <key code="32" output="U"/>

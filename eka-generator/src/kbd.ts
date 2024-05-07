@@ -2,10 +2,10 @@ import kbddef from "../kle-source/eka-kannada-keyboard.kbd.json";
 import { Serial } from "@ijprest/kle-serial";
 
 const INTERESTED_RAGES: [number, number][] = [
-  [15, 25],
-  [29, 39],
-  [43, 52],
-  [56, 63],
+  [15, 25], // 0-9
+  [29, 39], // q-p
+  [43, 52], // a-l
+  [56, 63], // z-m
 ];
 
 const inRange = (index: number): boolean =>
