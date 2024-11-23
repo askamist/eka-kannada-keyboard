@@ -1,6 +1,6 @@
 import { XMLParser, XMLBuilder } from "fast-xml-parser";
 
-import { readFileWrapper, writeFileWrapper } from "./utils";
+import { readFileWrapper, writeFileWrapper } from "./utils/file";
 
 const MAC_TEMPLATE = "eka-generator/mac/eka-template.keylayout";
 
