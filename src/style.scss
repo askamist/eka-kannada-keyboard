@@ -1,0 +1,25 @@
+// Set your brand colors
+$primary: #5c8374;
+$background: #092635;
+
+// Override global Sass variables from the /utilities folder
+@use "bulma/sass" with (
+  $family-primary: '"Istok Web", sans-serif',
+  $primary: $primary,
+  $background: $background
+);
+:root {
+  /* Set new values */
+  --bulma-scheme-h: 180;
+  --bulma-scheme-s: 7%;
+  --bulma-scheme-main-l: 19%;
+  --bulma-text-h: 125;
+  --bulma-text-s: 44%;
+  --bulma-text-l: 89%;
+  --bulma-light-invert-h: 180;
+  --bulma-light-invert-s: 7%;
+  --bulma-light-invert-l: 19%;
+}
+// Import the Google Font
+// @import url("https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700");
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700");
