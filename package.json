@@ -11,9 +11,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@primevue/themes": "^4.2.4",
     "element-plus": "^2.8.8",
     "fast-xml-parser": "^4.5.0",
-    "vue": "^3.5.13"
+    "primevue": "^4.2.4",
+    "vue": "^3.5.13",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@ijprest/kle-serial": "^0.15.1",

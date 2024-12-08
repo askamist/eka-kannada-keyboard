@@ -1,8 +1,13 @@
 # ಏಕ ಕನ್ನಡ ಕೀಲಿಮಣೆ
+One keyboard for all platform. Learn Once Type anywhere.
 
-## ನಮಗೆ ಇನ್ನೋಂದು ಕೀಲಿಮಣೆ ಬೇಕೆ?
+## ನಮಗೆ ಇನ್ನೊಂದು ಕೀಲಿಮಣೆ ಬೇಕೆ?
 
-There are currently two commonly available keyboards for Kannada. 
+Currently there are two Kannada keyboards that are available in the market, Nudi and Microsoft Kannada keyboard. Nudi if far better than Microsoft Kannada Keyboard in many ways greatest of which is that it serves to already built muscle memory of asdf keyboard, most of the letters are there where you expect it.
+
+If Nudi is so good, Why do we need another keyboard? While Nudi serves our purpose you cannot use Nudi on a Android Pad, if you want to type on any of the android devices you have to learn a whole new keyboard or search for each letter as you type them.
+
+Eka as the name suggests aims to solve that.
 
 Nudi Kannada Keyboard Layout
 

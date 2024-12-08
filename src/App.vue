@@ -3,9 +3,14 @@ import Navbar from "./components/Navbar.vue";
 </script>
 
 <template>
-  <div class="container is-fullhd">
-    <Navbar />
+  <Navbar />
+  <div class="container">
+    <RouterView />
   </div>
 </template>
 
-<style scoped></style>
+<style scoped lang="scss">
+.container {
+  padding: 16px;
+}
+</style>
