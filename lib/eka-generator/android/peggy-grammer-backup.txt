@@ -1,0 +1,29 @@
+KCB_text= settype:type rest:(comment / keyrule)* {return {type: settype, values: rest }}
+
+type = "type " value:("ALPHA" / "OVERLAY") "\n" { return value; }
+
+comment = "###" val:([^\n]+) "\n" {return {type: "comment", value: val.join("")}}
+
+keyrule = key:key _ "{\n" _ rest:( _ "\n"? _ @inputdef)* "}\n" {
+ return {type: "key", key, value: rest}
+}
+
+lable_base = name:("label" / "base" / "shift" / "capslock" / "alt" / "meta") { return name }
+
+plus = "+" {return "+"}
+comma = "," {return ", "}
+
+lable = head:lable_base tail:(_ @sep:(plus / comma) _ @lable_base)* { return [head].concat(...tail).join("") }
+
+inputdef = key:lable _ ":" _ value:input _ "\n" {return {[key]: value}}
+
+input = quote char:charcode quote { return char }
+
+charcode = char:( "\\\'"/ "\\\\" / [^\\']) { return char }
+
+quote = "'"
+
+key = "key " _ name:([A-Z0-9_]+) { return name.join("") }
+
+_ "whitespace"
+  = [ \t\r]*

@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "vite --port 8000",
     "build": "vue-tsc && vite build",
-    "gen": "tsx eka-generator/src/index.ts",
-    "genw": "nodemon -w eka-generator -e ts -x tsx eka-generator/src/index.ts",
+    "gen": "tsx lib/eka-generator/src/index.ts",
+    "genw": "nodemon -w eka-generator -e ts -x tsx lib/eka-generator/src/index.ts",
     "preview": "vite preview"
   },
   "dependencies": {
